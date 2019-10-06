@@ -252,6 +252,7 @@ GEM
     rubocop-rails (2.2.1)
       rack (>= 1.1)
       rubocop (>= 0.72.0)
+    ruby-filemagic (0.7.2)
     ruby-progressbar (1.10.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.5)
@@ -346,6 +347,7 @@ DEPENDENCIES
   rubocop (~> 0.74.0)
   rubocop-performance (~> 1.4.1)
   rubocop-rails (~> 2.2.1)
+  ruby-filemagic (~> 0.7.2)
   sassc-rails (~> 2.1.2)
   sentry-raven
   spring
